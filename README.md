@@ -1,2 +1,2 @@
-# ej-git-libro
+# libro-git
 ejercicio de clase en git
